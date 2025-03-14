@@ -1,4 +1,4 @@
-const backendUrl = "http://localhost:3000"; // 你的后端 URL
+const backendUrl = "https://api.wznav.top/"; // 你的后端 URL
 const contentCursor = document.getElementById("main-content"); // 内容选择器
 const outputCursor = document.getElementById("ai-output"); // 内容输出框选择器
 
